@@ -19,3 +19,7 @@ var handleVideoSearch = (q) => {
 };
 
 export default handleVideoSearch;
+
+//When a search querry is entered
+  //it should send out an api request with new querry
+  //update state of current video and the video list
