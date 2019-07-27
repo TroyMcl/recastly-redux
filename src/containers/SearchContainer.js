@@ -10,7 +10,7 @@ import handleSearchChange from '../actions/search.js';
 //state and dispatch mappings.
 
 var mapStateToProps = (state) => ({
-  value: state.value
+
 })
 
 var mapDispatchToProps = (dispatch) => ({
